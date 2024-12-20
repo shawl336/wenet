@@ -14,4 +14,6 @@ Submodules
 
    wenet.cli.hub
    wenet.cli.model
+   wenet.cli.paraformer_model
+   wenet.cli.punc_model
    wenet.cli.transcribe
